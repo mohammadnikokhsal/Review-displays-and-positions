@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.parent{
+text-align: center;
+background-color: cyan;
+width: 150px;
+height: 40px;  
+margin: auto;
+margin-top: 50vh;
+padding: 10px;
+}
