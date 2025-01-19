@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.circle{
+    width:20px;
+    height: 20px;
+    border:1px solid rgb(245, 242, 70) ;
+    border-radius: 50%;
+    background-color: rgb(245, 242, 70);
+    position: absolute;
+    top: 325px; left: 580px;
+    z-index: 999;
+}
+.rectangle{
+    width: 10px;
+    height: 252px;
+    border:1px solid rgb(0, 165, 60) ;
+    background-color: rgb(0, 165, 60);
+    position: absolute;
+    top: 338px; left: 585.5px;
+    z-index:888;
+}
+.flo{
+  border-radius:0% 100% 0% 100% ;
+}
+.flower{
+    border-radius:100% 0% 100% 0% ; 
+}
+.one{
+    width:60px;
+    height: 60px;
+    border:1px solid  rgb(255, 2, 2);
+    background-color:rgb(255, 2, 2) ;
+    position: absolute;
+    top: 273px; left: 525px;
+    z-index: 10;
+}
+.two{
+    width:60px;
+    height: 60px;
+    border:1px solid rgb(255, 2, 2);
+    background-color: rgb(255, 2, 2);
+    position: absolute;
+    top: 273px; left: 596px;
+    z-index: 10;
+}
+.three{
+    width:60px;
+    height: 60px;
+    border:1px solid rgb(255, 2, 2) ;
+    background-color:rgb(255, 2, 2) ;
+    position: absolute;
+    top: 340px; left: 525px;
+    z-index: 10;
+}
+.four{
+    width:60px;
+    height: 60px;
+    border:1px solid rgb(255, 2, 2) ;
+    background-color: rgb(255, 2, 2);
+    position: absolute;
+    top: 340px; left: 596px;
+    z-index: 10;
+}
+.five{
+    width:60px;
+    height: 80px;
+    border:1px solid rgb(28, 248, 65) ;
+    background-color: rgb(28, 248, 65);
+    position: absolute;
+    top: 430px; left: 526px;
+    z-index: 1;
+}
+
+  
+
+
+
+
+
