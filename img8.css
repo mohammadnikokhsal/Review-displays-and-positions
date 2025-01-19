@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-size: 0;
+}
+.parent{
+  width: 454px; 
+  height: 454px; 
+ border:2px solid rgb(133, 180, 182) ;
+ position: relative;
+ top: 50px;left: 380px;
+
+}
+.box{
+    border: 1px solid black;
+    width: 90px;
+    height: 90px;
+    display: inline-block;
+}
+
+.black{
+    background-color: black;
+}
+.gray{
+   background-color:rgb(205, 204, 204); 
+}
